@@ -2,7 +2,7 @@
 iOS 공부 내용 정리
 
 ## TableView
-### in storyboard   
+### \*in storyboard   
 TableViewController.swift와 storyboard에서 TableViewController 연결 : class명을 파일명과 일치시킴   
 Object에서 TableView, TableViewCell 가져와서 배치   
 
@@ -16,7 +16,7 @@ Object에서 imageView, Label 등 가져와서 배치
 **auto layout 설정**   
 각 UI컴포넌트마다 contraint 설정 (size, rate, spacing..)   
 
-### in TableViewController   
+### \*in TableViewController   
 TableViewController는 UITableViewDataSource, UITableViewDelegate 프로토콜을 추가로 따름   
 -> UITableViewDataSource, UITableViewDelegate도 storyboard에서 tableView와 ViewController control해서 연결해줘야함   
    

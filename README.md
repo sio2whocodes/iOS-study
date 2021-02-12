@@ -56,3 +56,7 @@ cell이 선택됐을때 수행되어야 하는 일들을 정의하는 함수이�
 지금은 일단 셀이 선택되면 해당 셀의 row index를 콘솔에 출력하도록 했다.   
 
 처음엔 뷰 컨드롤러 안에 리스트형식으로 데이터를 저장해두고 indexPath.row로 접근하여 셀에 표현한다.   
+
+## Collection View   
+[Collection View 정리](https://sio2whocode.tistory.com/88)
+    

@@ -64,9 +64,9 @@ cell이 선택됐을때 수행되어야 하는 일들을 정의하는 함수이�
 [Core Data 정리](https://sio2whocode.tistory.com/89)
 
 ## UIAlert
-[UIAlertController, UIAlertAction](https://sio2whocode.tistory.com/76)
+[UIAlertController, UIAlertAction](https://sio2whocode.tistory.com/76)    
 [아이패드에서 UIAlertController actionSheet사용시 오류](https://sio2whocode.tistory.com/100)
 
 ## UITabBar, UIToolBar
-[tabBar와 ToolBar의 차이](https://sio2whocode.tistory.com/102)
+[tabBar와 ToolBar의 차이](https://sio2whocode.tistory.com/102)    
 [tabBar사용시 presentingViewController](https://sio2whocode.tistory.com/101)

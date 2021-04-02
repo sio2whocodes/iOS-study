@@ -62,6 +62,7 @@ cell이 선택됐을때 수행되어야 하는 일들을 정의하는 함수이�
     
 ## Core Data
 [Core Data 정리](https://sio2whocode.tistory.com/89)
+[Core Data Back up](https://sio2whocode.tistory.com/108)
 
 ## UIAlert
 [UIAlertController, UIAlertAction](https://sio2whocode.tistory.com/76)    
